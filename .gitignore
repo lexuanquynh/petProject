@@ -1,0 +1,34 @@
+# VSCode
+.vscode/
+*.code-workspace
+
+# Git
+!.gitkeep
+.gitconfig
+
+# Markdown Preview Enhanced
+/out/
+
+# node.js
+node_modules
+
+# vuepress
+**/.vuepress/dist
+/public/
+
+# yarn
+yarn-error.log
+/GCEirNtvMain/GCEirNtvMain/obj/
+*.hmap
+*.ipa
+*.xcuserstate
+.DS_Store
+*.dSYM
+*.dSYM.zip
+*.ipa
+*/xcuserdata/*
+# Cocoapods
+Pods/
+
+Carthage/
+
